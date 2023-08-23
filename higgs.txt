@@ -1,0 +1,24 @@
+The Higgs boson, sometimes called the Higgs 
+particle,[9][10] is an elementary particle in 
+the Standard Model of particle physics produced
+ by the quantum excitation of the Higgs field,
+ [11][12] one of the fields in particle physics
+  theory.[12] In the Standard Model, the Higgs
+   particle is a massive scalar boson with 
+   zero spin, even (positive) parity, no 
+   electric charge, and no colour charge 
+   that couples to (interacts with) mass.[13]
+    It is also very unstable, decaying into
+     other particles almost immediately upon 
+     generation.
+
+The Higgs field is a scalar field with two 
+neutral and two electrically charged components
+ that form a complex doublet of the weak 
+ isospin SU(2) symmetry. Its "Mexican 
+ hat-shaped" potential leads it to take a n
+ onzero value everywhere (including otherwise
+  empty space), which breaks the weak isospin 
+  symmetry of the electroweak interaction and,
+   via the Higgs mechanism, gives mass to many 
+   particles.
